@@ -1,5 +1,14 @@
 ## Todo React App
 
+### Demo
+
+https://puja-react-todo.netlify.com/
+
+
+### Screenshot
+
+![Alt text](screen.png "Title")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
